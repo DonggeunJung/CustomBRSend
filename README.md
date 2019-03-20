@@ -2,7 +2,7 @@
 
 [Android & Java] User define BroadCast message send example
 
-[Image1 : Book title list parsing from Server JSON data]
+[Image1 : MainActivity]
 
 <div>
 <img src="https://github.com/DonggeunJung/CustomBRSend/blob/master/CustomBRSend_Capture.png?raw=true width="400px"></img>
